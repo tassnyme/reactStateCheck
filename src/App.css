@@ -1,0 +1,24 @@
+.flex{
+  display: flex;
+  flex-wrap: nowrap;
+}
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(203, 224, 204)!important;
+
+}img{
+  width: 300px;
+  height: 300px;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
